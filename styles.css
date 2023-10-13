@@ -49,6 +49,8 @@ body * {
 
 #profile img {
   width: 112px;
+  border-radius: 999px;
+  border: 2px solid var(--stroke-color);
 }
 
 #profile p {

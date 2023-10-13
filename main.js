@@ -4,8 +4,8 @@ function switchTheme() {
 
   body.classList.toggle("light")
   if (body.classList.contains("light")) {
-    avatar.src = "./assets/avatar-light.png"
+    avatar.src = "./assets/avatar.jpeg"
   } else {
-    avatar.src = "./assets/avatar.png"
+    avatar.src = "./assets/avatar.jpeg"
   }
 }
